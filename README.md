@@ -24,7 +24,7 @@ this code reads the contents of the "allow_list.txt" file into a string format t
 
 ### Convert the string into a list
 
-In order to remove individual IP addresses from the allow list, I needed it to be in list format. Therefore, I next used the .split() method to convert the ip_addresses string into a list
+In order to remove individual IP addresses from the allow list, I needed it to be in list format. Therefore, I used the .split() method to convert the ip_addresses string into a list
 
 <img src="https://i.imgur.com/2iGizyW.png">
 
